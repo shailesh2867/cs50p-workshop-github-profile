@@ -33,8 +33,9 @@ A workshop for students on how to create a GitHub profile.
            * https://github.com/alexandresanlim/Badges4-README.md-Profile
        * Maybe you want to generate your own Octocat (GitHub logo animal) that represents you.
            * Generate at https://myoctocat.com/
-           * Download the result and upload it to your profile repo in the browser. Go to your profile and locate the "Add file" button above the file list.
-           * Insert the image in your README.md with something like `![My Octocat](my_octocat.png)`.
+           * Download the result, rename the file to `octocat.png`,  and upload it to your profile repo in the browser. Go to your profile and locate the "Add file" button above the file list.
+           * Insert the image in your README.md. Here we use HTML tag to change the size of the image to be a bit smaller:
+              * `<img src="octocat.png" width="30%" />`.
    - [ ] When done: make sure to run your text through a [spell checker](https://languagetool.org/). Paste in your whole Markdown text.
 
 
