@@ -1,5 +1,5 @@
 # Workshop: GitHub Profile
-A workshop for students on how to create a GitHub profile.
+Workshop for students: creating a GitHub profile README.md
 
 # Steps
 
