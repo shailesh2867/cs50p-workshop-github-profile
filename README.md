@@ -1,7 +1,7 @@
 # Workshop: GitHub Profile
 Workshop for students: creating a GitHub profile README.md
 
-# Steps
+## Steps
 
 **First step**: click the "Fork" button in the top right corner of the repo, to create your own version of this repo. Then you can use the below check-list to complete the tasks.
 
@@ -40,7 +40,7 @@ Workshop for students: creating a GitHub profile README.md
 
 
 
-# Simple Profile Template
+## Simple Profile Template
 ```markdown
 # Hello, I'm <FirstName LastName>
 Welcome to my GitHub profile....
@@ -56,3 +56,8 @@ My favorite mobile app is....
 I know the following programming languages...
 .. and my favorite language currently is .... because ...
 ````
+
+
+## More Workshops
+* [erikw/workshop-github-profile](https://github.com/erikw/workshop-github-profile)
+* [erikw/workshop-git](https://github.com/erikw/workshop-git)
