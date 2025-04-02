@@ -60,4 +60,4 @@ I know the following programming languages...
 
 ## More Workshops
 * [erikw/workshop-github-profile](https://github.com/erikw/workshop-github-profile)
-* [erikw/workshop-git](https://github.com/erikw/workshop-git)
+* [erikw/workshop-git-and-github](https://github.com/erikw/workshop-git-and-github)
