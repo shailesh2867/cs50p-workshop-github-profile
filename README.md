@@ -1,4 +1,4 @@
-# GitHub Profile Workshop
+# Workshop: GitHub Profile
 A workshop for students on how to create a GitHub profile.
 
 # Steps
