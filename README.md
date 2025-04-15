@@ -1,5 +1,5 @@
-# Workshop: GitHub Profile
-Workshop for students: creating a GitHub profile README.md
+# CS50P Workshop: GitHub Profile
+Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.com/courses/cs50x-python/) (CS50x Python at Aryaloka): creating a GitHub profile README.md
 
 ## Steps
 
