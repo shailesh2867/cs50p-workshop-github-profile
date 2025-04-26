@@ -16,15 +16,18 @@ Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.c
             * Cartoon by [picsart](https://picsart.com/photo-effects/photo-to-cartoon/)
        - [ ] About me
        - [ ] Other data like links to social profiles (LinkedIn, Twitter, ...)
+
 - [ ] In the top right toolbar: click "+" > "New repository". Enter the following data:
     * Repository name: **exactly** the same name as your GitHub username.
     * Initialize this repository with: check "Add a README file"
     * Leave all others to default and press the "Create repository" button.
+
 - [ ] Edit your profile `README.md` in your new repo `https://github.com/your_username/your_username`:
     - [ ] Start with a template
        * Click the :pencil2: icon on the `README.md` below the file list to start editing the file right in your browser.
          * Remember to publish your edits from time to time by pressing the "Commit changes" button in the top right corner.
        * Start with the template below. Copy it and paste it into your `README.md` (replace whatever was already in this file).
+
     - [ ] Write about yourself! Use this Markdown syntax [guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
        * Make good use of [emojis](https://github.com/ikatyang/emoji-cheat-sheet)
            e.g. `:computer:` -> :computer:
@@ -36,6 +39,7 @@ Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.c
            * Download the result, rename the file to `octocat.png`,  and upload it to your profile repo in the browser. Go to your profile and locate the "Add file" button above the file list.
            * Insert the image in your README.md. Here we use HTML tag to change the size of the image to be a bit smaller:
               * `<img src="octocat.png" width="30%" />`.
+                
    - [ ] When done: make sure to run your text through a [spell checker](https://languagetool.org/). Paste in your whole Markdown text.
 
 
