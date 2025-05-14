@@ -29,7 +29,7 @@ Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.c
     - [ ] Start with a template
        * Click the :pencil2: icon on the `README.md` below the file list to start editing the file right in your browser.
          * Remember to publish your edits from time to time by pressing the "Commit changes" button in the top right corner.
-       * Start with the template below. Copy it and paste it into your `README.md` (replace whatever was already in this file).
+       * Start with the [template](#simple-profile-template) below. Copy it and paste it into your `README.md` (replace whatever was already in this file).
 
     - [ ] Write about yourself! Use this Markdown syntax [guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
        * Make good use of [emojis](https://github.com/ikatyang/emoji-cheat-sheet)
