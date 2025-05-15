@@ -37,6 +37,7 @@ Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.c
        * Add some badges to show your preferences:
            * https://home.aveek.io/GitHub-Profile-Badges/
            * https://github.com/alexandresanlim/Badges4-README.md-Profile
+           * shields.io icons can be selected from [here](https://simpleicons.org/)
        * Maybe you want to generate your own Octocat (GitHub logo animal) that represents you.
            * Generate at https://myoctocat.com/
            * Download the result, rename the file to `octocat.png`,  and upload it to your profile repo in the browser. Go to your profile and locate the "Add file" button above the file list.
