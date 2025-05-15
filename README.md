@@ -9,16 +9,16 @@ Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.c
 **First step**: click the "Fork" button in the top right corner of the repo, to create your own version of this repo. Then you can use the below check-list to complete the tasks.
 
 *Then in your own fork:* Check off the tasks below as you complete them by putting an `x` in the square brackets like `- [x]`:
-- [ ] Go to [github.com](https://github.com) > click your profile picture (top right corner) > Your Profile
+- [x] Go to [github.com](https://github.com) > click your profile picture (top right corner) > Your Profile
     * In the left sidebar tap "Edit profile" and set:
-      - [ ] Profile picture. Use a real professional picture, a cartoon that represents you, or use some AI image tool to generate a cartoon version from a real photo of you.
+      - [x] Profile picture. Use a real professional picture, a cartoon that represents you, or use some AI image tool to generate a cartoon version from a real photo of you.
          * Have no photo of you on the computer/web? Take a new photo or an existing one and either email it too yourself, or upload it to [tmpfiles](https://tmpfiles.org/) and then he open upload URL on the computer.
          * Image tools:
             * Generate many different professional profile pictures from a real picture with [newprofilepic.com](https://newprofilepic.com/)
             * Cartoonize by [fotor](https://www.fotor.com/features/photo-to-cartoon/)
             * Cartoon by [picsart](https://picsart.com/photo-effects/photo-to-cartoon/)
-       - [ ] About me
-       - [ ] Other data like links to social profiles (LinkedIn, Twitter, ...)
+       - [x] About me
+       - [x] Other data like links to social profiles (LinkedIn, Twitter, ...)
 
 - [ ] In the top right toolbar: click "+" > "New repository". Enter the following data:
     * Repository name: **exactly** the same name as your GitHub username.
